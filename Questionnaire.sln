@@ -3,11 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video Store", "Video Store\Video Store.csproj", "{362CE952-9A61-469E-AAEA-34E4644D269D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Video Store", "Video Store\Video Store.csproj", "{362CE952-9A61-469E-AAEA-34E4644D269D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business Days Calculator", "Business Days Calculator\Business Days Calculator.csproj", "{8B279645-52CA-4B86-8925-6958B77FCF0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business Days Calculator", "Business Days Calculator\Business Days Calculator.csproj", "{8B279645-52CA-4B86-8925-6958B77FCF0C}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Magic 8 Ball Simulator", "Magic 8 Ball Simulator\Magic 8 Ball Simulator.csproj", "{DB866735-9102-4501-95FA-0CA590A52538}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E768772C-473B-41DF-9E79-7BA34FDC38BB}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.md = Readme.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
