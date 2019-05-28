@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DotNetSimpleDITalk.Pass1 {
+namespace Magic_8_Ball_Simulator {
 	public class ConsoleInputService {
 		private string input = "input-initializer";
 

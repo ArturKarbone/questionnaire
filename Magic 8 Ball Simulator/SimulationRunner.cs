@@ -1,4 +1,4 @@
-﻿namespace DotNetSimpleDITalk.Pass1 {
+﻿namespace Magic_8_Ball_Simulator {
 	public class SimulationRunner {
 		static void Main(string[] args) {
 			// watch me now, I'm injecting dependent classes

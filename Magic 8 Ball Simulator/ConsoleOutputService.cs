@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DotNetSimpleDITalk.Pass1 {
+namespace Magic_8_Ball_Simulator {
 	public class ConsoleOutputService {
 		public void PrintMessage(string message) {
 			Console.WriteLine(message);

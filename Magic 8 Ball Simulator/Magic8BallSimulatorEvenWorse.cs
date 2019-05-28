@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace DotNetSimpleDITalk.Pass1 {
+﻿namespace Magic_8_Ball_Simulator {
 	public class Magic8BallSimulatorEvenWorse {
 
 		private MessageService _messageService;
