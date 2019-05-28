@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BusinessDays.Rules
+namespace Business_Days_Calculator.Rules
 {
     public interface IRule
     {

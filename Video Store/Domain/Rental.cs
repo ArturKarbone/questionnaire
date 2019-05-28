@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace Questionnaire.Video_Store.Domain
+namespace Video_Store.Domain
 {
     class Rental
     {

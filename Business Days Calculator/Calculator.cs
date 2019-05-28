@@ -1,9 +1,9 @@
-﻿using BusinessDays.Rules;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using Business_Days_Calculator.Rules;
 
-namespace BusinessDays
+namespace Business_Days_Calculator
 {
     public class Calculator
     {

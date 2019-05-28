@@ -1,9 +1,9 @@
-﻿using Questionnaire.Video_Store.Domain;
+﻿using System;
 using Shouldly;
-using System;
+using Video_Store.Domain;
 using Xunit;
 
-namespace Questionnaire.Video_Store.Features
+namespace Video_Store.Features
 {
     class PrepareRentalRecordStatement
     {
